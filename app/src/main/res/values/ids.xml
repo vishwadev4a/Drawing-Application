@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ll_paint_colors" type="id" />
+    <item name="insta" type="id" />
+    <item name="imageButton" type="id" />
+</resources>
